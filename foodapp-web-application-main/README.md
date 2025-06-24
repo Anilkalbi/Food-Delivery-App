@@ -1,69 +1,46 @@
-Food Delivery Web App
--->A full-stack web application to browse restaurants, view menus, add food to cart, and place orders — built using Java, JSP, Servlets, and MySQL.
+🚀 Foodie(Food delivery app) ! 🍔🍕🍣
 
- 
- ✨ Features
+I am thrilled to announce the completion and deployment of Food delivery app(Foodie), a dynamic web application designed for food lovers and delivery enthusiasts.
 
-- ✅ User Registration and Login
-- 🛒 Add to Cart and Checkout System
-- 📋 View Restaurants and Menus
-- 🧾 Place Orders with Price Summary
-- 👤 Admin Panel (basic)
-- 📚 DAO Pattern with JDBC
-- 🧱 Follows MVC Architecture.
+🌟 Project Overview :
 
+ - Foodie  is a user-friendly platform that allows customers to browse various food items from multiple restaurants, place orders, and have their favorite meals delivered right to  their doorstep. 
+ - The application offers a seamless experience from menu selection to checkout, ensuring that users enjoy their culinary adventures effortlessly.
 
- 🧠 Tech Stack
+💻 Technologies Used :
 
-| Layer       | Tech Used                      |
-|-------------|--------------------------------|
-| Frontend    | HTML, CSS, JSP                 |
-| Backend     | Java, Servlets, JDBC           |
-| Database    | MySQL                          |
-| Web Server  | Apache Tomcat                  |
-| IDE         | Eclipse                        |
-| Pattern     | MVC + DAO                      |
+ - Front-End: HTML, CSS, Bootstrap, JavaScript
+ - Back-End: Java, J2EE, JDBC
+ - Database: MySQL
+ - Server: Apache Tomcat
+ - Deployment: AWS
 
+🛠️ Key Features :
 
+ - User Registration: Sign-up and login functionalities for users.
+ - Update User Details: Users can easily update their personal information.
+ - Dynamic Menu Display: Users can explore a variety of food items with detailed descriptions.
+ - Order Management: Add items to the cart and proceed to checkout with ease.
+ - Cart Management: Users can manage cart items, adding or removing products as they wish.
 
+⚙️ How to Run the Project :
 
+ Prerequisites:
 
+  - Eclipse IDE
+  - Apache Tomcat Server
+  - MySQL Server
+  - Setup Steps:
 
+  - Clone or download the project files from this repository.
+  - Import the project into Eclipse as a Dynamic Web Project.
+  - Configure and start the Apache Tomcat server.
+  - Set up the MySQL database using the included schema and data scripts.
+  - Run the application on the server.
+  - Access it via your local browser (e.g., http://localhost:8080/YourProjectName).
 
+ 🙋‍♂️ About Me :
 
-Output:
-RegisterPage[Screenshot 2025-06-09 123412.png]
-
-
-HomePage[Screenshot 2025-06-09 123222.png]
-
-MenuPage[Screenshot 2025-06-09 123513.png]
-
-
-Cart[Screenshot 2025-06-09 123546.png]
-
-
-Order Success[Screenshot 2025-06-09 123646.png]
-
-
-
-⚙️ How to Run the Project
-Prerequisites:
-
-Eclipse IDE
-Apache Tomcat Server
-MySQL Server
-Setup Steps:
-
-Clone or download the project files from this repository.
-Import the project into Eclipse as a Dynamic Web Project.
-Configure and start the Apache Tomcat server.
-Set up the MySQL database using the included schema and data scripts.
-Run the application on the server.
-Access it via your local browser (e.g., http://localhost:8080/YourProjectName).
-
- 🙋‍♂️ About Me
-
-👨‍💻 Developer: Prasad Reddy Bontha
-📫 Email: pp0113600@example.com
+👨‍💻 Developer: Anil Patel n
+📫 Email: anilpatelnk@example.com
 📌 Location: Banglore
